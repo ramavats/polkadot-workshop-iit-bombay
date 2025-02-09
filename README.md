@@ -39,7 +39,7 @@ Follow this documentation : https://docs.polkadot.com/tutorials/polkadot-sdk/par
 
 **Testnet URL** : https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fberesheet.jelliedowl.net#/
 
-**RPC of the Beresheet testnet** : wss://beresheet.jelliedowl.net
+**RPC of the Beresheet testnet** : `wss://beresheet.jelliedowl.net`
 
 
 # Notes and Errors
