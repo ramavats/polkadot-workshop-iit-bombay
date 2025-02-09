@@ -1,9 +1,14 @@
 # Get started
 
-Make sure you are on Linux or Mac, if you are on Windows, you need WSL with any of the distros installed. 
+Make sure you are on Linux or Mac, if you are on Windows, you need WSL Installed. 
 
-## Install Docker Engine : 
+Install all the dependencies : 
+
+     sudo apt install gcc libc6-dev cmake pkg-config libssl-dev git clang libclang-dev protobuf-compiler build-essential curl
+ 
+**Install Docker Engine :** 
 https://docs.docker.com/engine/install/
+
 
 
 ## Step 1 - Install an extension
