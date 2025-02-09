@@ -44,3 +44,6 @@ Follow this documentation : https://docs.polkadot.com/tutorials/polkadot-sdk/par
 
 # Notes and Errors
 https://notepad.pw/polkadot-iitb
+
+# Community
+Join the Students Collective : https://t.me/StudentsCollective
