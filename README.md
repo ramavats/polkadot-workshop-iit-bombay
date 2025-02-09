@@ -11,6 +11,10 @@ Firefox : https://addons.mozilla.org/en-US/firefox/addon/polkadot-js-extension/
 Chrome : https://chrome.google.com/webstore/detail/talisman-wallet/fijngjgcjhjmmpcmkeiomlglpeiijkld
 Firefox :https://addons.mozilla.org/en-US/firefox/addon/talisman-wallet-extension/
 
+### Subwallet
+Chrome : https://chrome.google.com/webstore/detail/subwallet-polkadot-extens/onhogfjeacnfoofkfgppdlbmlmnplgbn
+Firefox : https://addons.mozilla.org/en-US/firefox/addon/subwallet/
+
 ## Step 2 - Setup a template
 
 https://docs.polkadot.com/tutorials/polkadot-sdk/parachains/zero-to-hero/set-up-a-template/
