@@ -36,10 +36,13 @@ Follow this documentation : https://docs.polkadot.com/tutorials/polkadot-sdk/par
 # Activity Time
 
 **Testnet Faucet** : https://substratefaucet.xyz/
-
 **Testnet URL** : https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fberesheet.jelliedowl.net#/
-
 **RPC of the Beresheet testnet** : `wss://beresheet.jelliedowl.net`
+
+## Tasks
+- [ ] Distribute your tokens to as many people as possible.
+- [ ] Make your tokens decentralized by removing Sudo access.
+- [ ] Put a proposal on the governance.
 
 
 # Notes and Errors
