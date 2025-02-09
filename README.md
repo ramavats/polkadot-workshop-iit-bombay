@@ -16,17 +16,17 @@ https://docs.docker.com/engine/install/
 **Wallet Extensions** 
 
 ### Polkadot JS
-Chrome : https://chrome.google.com/webstore/detail/polkadot%7Bjs%7D-extension/mopnmbcafieddcagagdcbnhejhlodfdd
-Firefox : https://addons.mozilla.org/en-US/firefox/addon/polkadot-js-extension/
+- Chrome : https://chrome.google.com/webstore/detail/polkadot%7Bjs%7D-extension/mopnmbcafieddcagagdcbnhejhlodfdd
+- Firefox : https://addons.mozilla.org/en-US/firefox/addon/polkadot-js-extension/
 
 ### Talisman 
 
-Chrome : https://chrome.google.com/webstore/detail/talisman-wallet/fijngjgcjhjmmpcmkeiomlglpeiijkld
-Firefox :https://addons.mozilla.org/en-US/firefox/addon/talisman-wallet-extension/
+- Chrome : https://chrome.google.com/webstore/detail/talisman-wallet/fijngjgcjhjmmpcmkeiomlglpeiijkld
+- Firefox :https://addons.mozilla.org/en-US/firefox/addon/talisman-wallet-extension/
 
 ### Subwallet
-Chrome : https://chrome.google.com/webstore/detail/subwallet-polkadot-extens/onhogfjeacnfoofkfgppdlbmlmnplgbn
-Firefox : https://addons.mozilla.org/en-US/firefox/addon/subwallet/
+- Chrome : https://chrome.google.com/webstore/detail/subwallet-polkadot-extens/onhogfjeacnfoofkfgppdlbmlmnplgbn
+- Firefox : https://addons.mozilla.org/en-US/firefox/addon/subwallet/
 
 ## Step 2 - Setup a template
 
