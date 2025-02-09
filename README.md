@@ -30,6 +30,6 @@ Firefox : https://addons.mozilla.org/en-US/firefox/addon/subwallet/
 
 ## Step 2 - Setup a template
 
-https://docs.polkadot.com/tutorials/polkadot-sdk/parachains/zero-to-hero/set-up-a-template/
+Follow this documenetation : https://docs.polkadot.com/tutorials/polkadot-sdk/parachains/zero-to-hero/set-up-a-template/
 
 
