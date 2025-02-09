@@ -35,5 +35,5 @@ Follow this documentation : https://docs.polkadot.com/tutorials/polkadot-sdk/par
 
 # Activity Time
 
-**Faucet** : https:/edgeware-testnet-faucet.vercel.app
+**Testnet Faucet** : https://edgeware-testnet-faucet.vercel.app
 
