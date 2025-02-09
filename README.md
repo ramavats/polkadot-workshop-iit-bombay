@@ -1,3 +1,11 @@
+# Get started
+
+Make sure you are on Linux or Mac, if you are on Windows, you need WSL with any of the distros installed. 
+
+## Install Docker Engine : 
+https://docs.docker.com/engine/install/
+
+
 ## Step 1 - Install an extension
 
 **Wallet Extensions** 
@@ -18,4 +26,5 @@ Firefox : https://addons.mozilla.org/en-US/firefox/addon/subwallet/
 ## Step 2 - Setup a template
 
 https://docs.polkadot.com/tutorials/polkadot-sdk/parachains/zero-to-hero/set-up-a-template/
+
 
