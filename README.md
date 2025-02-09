@@ -33,3 +33,7 @@ https://docs.docker.com/engine/install/
 Follow this documentation : https://docs.polkadot.com/tutorials/polkadot-sdk/parachains/zero-to-hero/set-up-a-template/
 
 
+# Activity Time
+
+**Faucet** : https:/edgeware-testnet-faucet.vercel.app
+
