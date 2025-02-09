@@ -37,4 +37,7 @@ Follow this documentation : https://docs.polkadot.com/tutorials/polkadot-sdk/par
 
 **Testnet Faucet** : https://edgeware-testnet-faucet.vercel.app
 
-**Test Network** : https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fberesheet.jelliedowl.net#/
+**Testnet URL** : https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fberesheet.jelliedowl.net#/
+
+# Notes and Errors
+https://notepad.pw/polkadot-iitb
